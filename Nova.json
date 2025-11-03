@@ -17,4 +17,10 @@
         "expirydate": "15-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "ff7c41bc84a58e9e",
+        "key": "gh",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
+    },
 ]
